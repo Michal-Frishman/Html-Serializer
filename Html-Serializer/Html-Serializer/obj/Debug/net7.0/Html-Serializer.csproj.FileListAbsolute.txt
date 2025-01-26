@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Html-Serializer.exe
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Html-Serializer.deps.json
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Html-Serializer.runtimeconfig.json
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Html-Serializer.dll
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Html-Serializer.pdb
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.AssemblyInfo.cs
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.dll
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\obj\Debug\net7.0\refint\Html-Serializer.dll
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.pdb
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.genruntimeconfig.cache
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\obj\Debug\net7.0\ref\Html-Serializer.dll
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Json\HtmlTags.json
+C:\Users\user\Desktop\practicode\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Json\HtmlVoidTags.json
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Html-Serializer.exe
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Json\HtmlTags.json
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Json\HtmlVoidTags.json
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Html-Serializer.deps.json
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Html-Serializer.runtimeconfig.json
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Html-Serializer.dll
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\bin\Debug\net7.0\Html-Serializer.pdb
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.AssemblyInfo.cs
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.dll
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\obj\Debug\net7.0\refint\Html-Serializer.dll
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.pdb
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\obj\Debug\net7.0\Html-Serializer.genruntimeconfig.cache
+C:\Users\user\Desktop\practicode\practicode 2\Html-Serializer\Html-Serializer\obj\Debug\net7.0\ref\Html-Serializer.dll
